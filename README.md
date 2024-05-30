@@ -1,4 +1,4 @@
-# TutorialsProject
+# ClassCompass
 FISD Tutorials Teacher Class Finder
 
 Hey everyone! This is a project created by Vyom (Myself), Sohan, and Pawan. 
